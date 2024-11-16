@@ -15,3 +15,13 @@ LADD is a dataset created by non-profit search and rescue volunteer organization
 * Utilised `YOLO11-large` model to train on the dataset
 * Tiling the images as a preprocessing step to enhance model's performance in small object detection
 * Utilising `SAHI(Slicing Aided Hyper Inference)` to slice images and predict on each slice to improve the inference
+
+  ### Model Performance Metrics
+
+| **Metric**    | **Value** |
+|---------------|-----------|
+| Precision     | 80.0%     |
+| Recall        | 60.9%     |
+| mAP@50        | 70.2%     |
+| mAP@50-95     | 42.8%     |
+
