@@ -1,0 +1,7 @@
+train: /kaggle/working/trying-lacmus-3-aug-1/train/images
+val: /kaggle/working/trying-lacmus-3-aug-1/valid/images
+
+nc: 1
+
+classes:
+  0: person
