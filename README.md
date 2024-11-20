@@ -6,6 +6,7 @@ LADD is a dataset created by non-profit search and rescue volunteer organization
 * Includes images of people
 * Focuses on small object detection
 
+
 #### Challenges
 
 * Training the model to be able to detect small objects i.e persons in complex environments terrains and various lighting conditions
@@ -15,6 +16,9 @@ LADD is a dataset created by non-profit search and rescue volunteer organization
 * Utilised the `YOLO11-large` model to train on the dataset
 * Tiling the images as a preprocessing step to enhance the model's performance in small object detection
 * Utilising `SAHI(Slicing Aided Hyper Inference)` to slice images and predict on each slice to improve the inference
+
+### Sample prediction
+![prediction-88-min](https://github.com/user-attachments/assets/8f6340e9-02ac-409d-a5e3-d332d5116f6e)
 
 ### Model Performance Metrics
 
