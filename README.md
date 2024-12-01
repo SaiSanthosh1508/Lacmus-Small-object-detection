@@ -17,6 +17,10 @@ LADD is a dataset created by non-profit search and rescue volunteer organization
 * Tiling the images as a preprocessing step to enhance the model's performance in small object detection
 * Utilising `SAHI(Slicing Aided Hyper Inference)` to slice images and predict on each slice to improve the inference
 
+### SAHI-Inference Processing steps
+![git](https://github.com/user-attachments/assets/f173775b-fa7f-44b4-b4e0-f862ec91e443)
+
+
 ### Sample prediction
 ![prediction-88-min](https://github.com/user-attachments/assets/8f6340e9-02ac-409d-a5e3-d332d5116f6e)
 
